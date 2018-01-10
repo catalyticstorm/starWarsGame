@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: wheat;
+}
+
+.headerIMG {
+	height: 200px;
+}
+
+.title {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	text-align: center;
+	font-size: 32px;
+	color: darkgoldenrod;
+}
+
+.charIMG {
+	height: 120px;
+}
+
+#chooseZone {
+	width: 100%;
+	height: 300px;
+}
+
+#battleZone {
+	width: 100%;
+	height: 300px;
+}
+
+#personOneC {
+	float: left;
+	margin: 10px 50px;
+	border-style: inset;
+	background-color: tan;
+	width: 18%;
+	height: 180px;
+}
+
+#personTwoC {
+	float: left;
+	margin: 10px 50px;
+	border-style: inset;
+	background-color: tan;
+	width: 18%;
+	height: 180px;
+}
+
+#personThreeC {
+	float: left;
+	margin: 10px 50px;
+	border-style: inset;
+	background-color: tan;
+	width: 18%;
+	height: 180px;
+}
+
+#personFourC {
+	float: right;
+	margin: 10px 50px;
+	border-style: inset;
+	background-color: tan;
+	width: 18%;
+	height: 180px;
+}
+
+#personOneF {
+	float: left;
+	margin: 10px 200px;
+	border-style: inset;
+	background-color: blue;
+	font-size: 18px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: white;
+	width: 18%;
+	height: 180px;
+}
+
+#personTwoF {
+	float: right;
+	margin: 10px 200px;
+	border-style: inset;
+	background-color: red;
+	font-size: 18px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	width: 18%;
+	height: 180px;
+}
